@@ -1,0 +1,10 @@
+name: My5stPL
+version: '${project.version}'
+main: dev.fiepaw.my5stpl.My5stPL
+api-version: 1.19
+author: FiePaw
+commands:
+  tutorialForm:
+    description: "Tutorial Jadi pinter ada di yt gua :v"
+    usage: /tutorialForm
+    aliases: [smart, pinter]
